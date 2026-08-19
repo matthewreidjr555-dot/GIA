@@ -1,0 +1,6 @@
+# Internal planning/reference docs — never needed to build or serve the app,
+# and excluded here as defense-in-depth on top of Next.js already never
+# routing to them.
+ARCHITECTURE.md
+prototypes
+.git
